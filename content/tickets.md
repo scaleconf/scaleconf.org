@@ -1,3 +1,3 @@
 # Tickets
 
-The following ticket options will be available soon
+Tickets will be available to purchase at the beginning of December 2013.
