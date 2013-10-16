@@ -27,7 +27,7 @@ In this package:
 * Option to provide promotional insert
 * 15% off additional tickets
 
-1 Available
+1 Available  
 Cost: R75 000
 
 ### Gold
@@ -49,7 +49,7 @@ In this package:
 * Option to provide promotional insert
 * 15% off additional tickets
 
-2 Available
+2 Available  
 Cost: R50 000
 
 ### Silver
@@ -66,7 +66,7 @@ In this package:
 * Option to provide promotional insert
 * 15% off additional tickets
 
-4 Available
+4 Available  
 Cost: R35 000
 
 ### Bronze
@@ -79,7 +79,7 @@ In this package:
 * Option to provide promotional insert
 * 15% off tickets
 
-8 Available
+8 Available  
 Cost: R10 000
 
 ## Social Events
@@ -90,5 +90,5 @@ In this package:
 * Sponsor designation for the event
 * Bring non-attendees to event for networking
 
-3 Available (only open to sponsors)
+3 Available (only open to sponsors)  
 Cost: R15 000 + cost of event
