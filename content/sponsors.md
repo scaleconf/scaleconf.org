@@ -1,6 +1,6 @@
 # Sponsorship packages
 
-ScaleConf is organised by volunteers, but there are still big expenses when it comes to putting together a successful conference. Sponsorship helps us to keep ticket prices affordable. If you'd like to sponsor, but none of these options suit you, get in touch with us at info@scaleconf.org, and we can discuss how else you could be involved.
+ScaleConf is organised by volunteers, but there are still huge expenses when it comes to putting together a successful conference. Sponsorship helps us to keep ticket prices affordable. If you'd like to sponsor, but none of these options suit you, get in touch with us at info@scaleconf.org, and we can discuss how else you could be involved.
 
 ## Conference
 
@@ -13,13 +13,13 @@ In this package:
 * Logo on promotional items bag
 * Prominent position on website landing page
 * Company name or logo on lanyard
-* Ten conference tickets
+* 10 conference tickets
 
 +Gold
 * Company name in press releases
 * Company name or logo on lanyard insert
 * Logo on event t-shirts (back)
-* Two Banners in main hall
+* 2 banners in main hall
 * Exhibition space at the back of the main hall (3m x 3m)
 * Company logo on website footer
 * Custom content on website sponsors page
@@ -27,7 +27,7 @@ In this package:
 * Option to provide promotional insert
 * 15% off additional tickets
 
-1 Available  
+1 available  
 Cost: R75 000
 
 ### Gold
@@ -38,9 +38,9 @@ In this package:
 * Company name in press releases
 * Company name or logo on lanyard insert
 * Logo on event t-shirts (back)
-* Two Banners in main hall
+* 2 banners in main hall
 * Exhibition space at the back of the main hall (3m x 3m)
-* Six conference tickets
+* 6 conference tickets
 
 +Silver
 * Company logo on website footer
@@ -49,7 +49,7 @@ In this package:
 * Option to provide promotional insert
 * 15% off additional tickets
 
-2 Available  
+2 available  
 Cost: R50 000
 
 ### Silver
@@ -59,7 +59,7 @@ In this package:
 * Silver designation throughout conference
 * Company logo on website footer
 * Custom content on website sponsors page
-* Four conference tickets
+* 4 conference tickets
 
 +Bronze
 * Company name or logo in attendee emails
@@ -79,7 +79,7 @@ In this package:
 * Option to provide promotional insert
 * 15% off tickets
 
-8 Available  
+8 available  
 Cost: R10 000
 
 ## Social Events
@@ -90,5 +90,5 @@ In this package:
 * Sponsor designation for the event
 * Bring non-attendees to event for networking
 
-3 Available (only open to sponsors)  
+3 available (only open to sponsors)  
 Cost: R15 000 + cost of event
