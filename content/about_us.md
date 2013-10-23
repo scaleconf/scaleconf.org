@@ -14,7 +14,7 @@ With Duncan leaving to work for Facebook in February 2012, they only had two and
 DUNCAN PHILLIPS
 Something, Amazon Web Services
 
-@nuknad
+[@nuknad](https://twitter.com/nuknad)
 
 Passionate about web development, its supporting architecture, and Open Source. Currently following the DevOps movement into unknown areas with scalability and automation using configuration management, monitoring, and command and control.
 
@@ -22,7 +22,7 @@ Passionate about web development, its supporting architecture, and Open Source. 
 JONATHAN HITCHCOCK
 Production Engineer, Facebook
 
-@vhata
+[@vhata](https://twitter.com/vhata)
 
 Jonathan has been involved in organising tech events and meetups for several years, and has an equal fervour for community building and for DevOps, high availability, automation, and the culture and mindset that supports these things.
 
@@ -30,7 +30,7 @@ Jonathan has been involved in organising tech events and meetups for several yea
 MARIJE PIERSON
 Engineering & Operations Manager, Yola.com
 
-@marijep
+[@marijep](https://twitter.com/marijep)
 
 Works in tech, herding cats. A background of organising, admin, managing, conferencing, customer supporting and streamlining.
 
@@ -38,7 +38,7 @@ Works in tech, herding cats. A background of organising, admin, managing, confer
 JENNIFER POOLE
 User Experience Designer, Flow Interactive
 
-@fireenjn
+[@fireenjn](https://twitter.com/fireenjn)
 
 Fascinated with the relationship between organisational structure, business strategy and product development, and the application of user-centred design to all three. Previously a researcher, adminner and editor.
 
