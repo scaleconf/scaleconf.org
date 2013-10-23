@@ -7,11 +7,11 @@ ScaleConf brings international and local experts together to talk about their ex
 
 ### Included in your ticket:
 
-* International speakers sharing unique experiences.
-* African speakers sharing local perspectives and solutions.
-* Lunch every day, and refreshments throughout the event.
-* Evening events to network and meet like-minded people.
-* Free workshops, and time to build and hack with new technologies and people.
+* International speakers sharing unique experiences
+* African speakers sharing local perspectives and solutions
+* Lunch both days, and refreshments throughout the event
+* Evening events to network and meet like-minded people
+* Free workshops, and time to build and hack with new technologies and people
 
 ### OUR LOCATION
 CAPE TOWN, SOUTH AFRICA: Set against the scenic backdrop of Table Mountain, Cape Town has easy access to beaches, scenic hikes, winelands, and a buzzing culture.
