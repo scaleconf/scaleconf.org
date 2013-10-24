@@ -13,11 +13,11 @@ With Duncan leaving to work for Facebook in February 2012, they only had two and
 ## Organisers
  
 DUNCAN PHILLIPS
-Something, Amazon Web Services
+Engineer, Amazon
 
 [@nuknad](https://twitter.com/nuknad)
 
-Passionate about web development, its supporting architecture, and Open Source. Currently following the DevOps movement into unknown areas with scalability and automation using configuration management, monitoring, and command and control.
+Duncan automates infrastructure so humans don't need to, and then builds tools for everything else.
 
  
 JONATHAN HITCHCOCK
