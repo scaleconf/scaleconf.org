@@ -47,5 +47,4 @@ MIKE JONES
 
 ## Special thanks to:
 
-* Vanessa Berger | Web and graphic designer - vanessa-berger.com
-* Other website contributors - Contributors on GitHub
+* Website contributors
