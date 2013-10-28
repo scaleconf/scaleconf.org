@@ -1,8 +1,6 @@
 # SCALECONF 2014: BUILT TO SCALE
 ## April 10-11 2014: Cape Town, South Africa.
 
-### Headline
-
 *Scaling code and architecture is a unique challenge that pushes us to our limits.* ScaleConf brings international and local experts together to talk about their experience building sites and services that can handle the rigours of today's internet.
 
 ### Included in your ticket:

@@ -1,7 +1,5 @@
 # Speaker Submissions
 
-## Summary
-
 We are currently accepting proposals for talks. If you would like to give a presentation, please [submit your proposal](https://docs.google.com/forms/d/1gdB_3A7t7pdqYHXob46_4svGnLsphJHJfAsqM81dcXM/viewform?embedded=true).
 
 The deadline for talk proposals is the 1st of March. Accepted presenters will be notified by no later than the 14th of March, although the earlier you submit your proposal, the earlier we can accept your talk.
