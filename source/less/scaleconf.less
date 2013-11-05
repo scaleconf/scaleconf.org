@@ -1,0 +1,151 @@
+// New styles for scaleconf 2014
+
+// structure
+div.padded
+{
+    padding-top: 60px;
+}
+.nav-justified {
+    margin-top: 20px;
+    background-color: @ScaleConfGreenBlue;
+    border-left: dashed 1px #59c9e1;
+    border-right: dashed 1px #59c9e1;
+    font-family: @font-family-sans-serif;
+}
+.nav-justified > li > a {
+    margin-bottom: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: @white;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    border-left: dashed 1px #59c9e1;
+    background-color: @ScaleConfGreenBlue; /* Old browsers */
+}
+.nav-justified > .active > a,
+.nav-justified > .active > a:hover,
+.nav-justified > .active > a:focus {
+    background-color: @ScaleConfMenuSelected;
+    color: @ScaleConfFooterBlue;
+}
+.nav-justified > li:first-child > a {
+}
+.nav-justified > li:last-child > a {
+  border-bottom: 0;
+}
+.nav>li>a:hover, .nav>li>a:focus
+{
+    background-color: transparent;
+    color: @ScaleConfFooterBlue;
+}
+
+@media (min-width: 768px) {
+  .nav-justified {
+    max-height: 52px;
+  }
+  .nav-justified > li > a {
+    border-right: dashed 1px #59c9e1;
+    border-left: dashed 1px #59c9e1;
+  }
+  .nav-justified > li:first-child > a {
+    border-left: 0;
+  }
+  .nav-justified > li:last-child > a {
+    border-right: 0;
+  }
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .masthead,
+  .marketing,
+  .footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+div.footer .dl-horizontal dt
+{
+    width: 75px;
+}
+div.footer .dl-horizontal dd
+{
+    margin-left: 85px;
+    font-size: 11px;
+}
+
+div.footer a:link, div.footer a:hover, div.footer a:active, div.footer a:visited
+{
+    color: @white;
+}
+
+
+// content design & fonts
+body
+{
+    font-family: @font-family-serif;
+}
+h1
+{
+    font-family: @font-family-sans-serif;
+    font-weight: normal;
+    font-size: 28px;
+    color: #59c9e1;
+    margin: 40px 0px 15px 0px;
+}
+h2
+{
+    font-family: @font-family-sans-serif;
+    font-weight: normal;    
+    font-size: 20px;
+    color: @ScaleConfGreenBlue;
+    margin: 3px 0 13px 0;
+    line-height: 1em;
+}
+h4
+{
+    margin: 0px;
+    font-family: geneva,sans-serif;
+    font-weight: bold;
+    color: @ScaleConfGreenBlueHeading;
+    text-rendering: optimizelegibility;
+}
+ul.list-inline li.box
+{
+    display: inline-block;
+    list-style: none;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    vertical-align: top;
+    background-color: #f5f5f6;
+    padding: 15px;
+}
+
+// layout coloring
+div.white-background
+{
+    background-color: @white;
+    padding: 0px 10px 20px 10px;
+}
+div.footer
+{
+    background-color: @ScaleConfFooterBlue;
+    padding: 10px 10px 10px 10px;
+    color: @ScaleConfGreenBlue;
+    font-size: 13px;
+}
+div.copyright
+{
+    background-color: @ScaleConfCopyrightBlue;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+}
+div.right-column
+{
+    background-color: @ScaleConfCopyrightBlue;
+    padding: 20px;
+    margin: 35px 0px 20px 0px;
+}
