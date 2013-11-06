@@ -5,6 +5,7 @@ ScaleConf is a two-day conference that brings together local and international e
 The presentations will cover the culture and methodologies used to architect and develop the strong foundations required to operate websites and services.
 
 ## A brief history
+
 Having attended various conferences in the Bay Area (notably CodeConf and DevOpsDays), Jonathan and Duncan found themselves wishing that there were more tech conferences of that calibre accessible locally. At dinner one evening in October 2011, they decided that they would have to hold one themselves, and since their areas of expertise revolved around DevOps and high availability, the idea of ScaleConf was born.
 
 With Duncan leaving to work for Facebook in February 2012, they only had two and a half months to make the idea a reality. Thanks to the expert help of Marije and Jen from Lessfuss, a bit of luck, and several willing speakers and sponsors, they organised the first conference, which was held on January 26 and 27, 2012. Many people soon began asking when it would happen again, and the second ScaleConf, held on April 18 and 19, 2013, quickly sold out. Now it's an annual event – we're bringing ScaleConf back in April 2014. Don't forget to check out other amazing international-level tech conferences which are becoming regular events in South Africa: [JSinSA](http://www.jsinsa.com/), [rubyfuza](http://rubyfuza.org/) and [PyConZA](http://za.pycon.org/).
@@ -12,11 +13,11 @@ With Duncan leaving to work for Facebook in February 2012, they only had two and
 ## Organisers
  
 DUNCAN PHILLIPS
-Something, Amazon Web Services
+Engineer, Amazon
 
 [@nuknad](https://twitter.com/nuknad)
 
-Passionate about web development, its supporting architecture, and Open Source. Currently following the DevOps movement into unknown areas with scalability and automation using configuration management, monitoring, and command and control.
+Duncan automates infrastructure so humans don't need to, and then builds tools for everything else.
 
  
 JONATHAN HITCHCOCK
@@ -44,8 +45,6 @@ Fascinated with the relationship between organisational structure, business stra
 
 MIKE JONES
 
-
 ## Special thanks to:
 
-* Vanessa Berger | Web and graphic designer - vanessa-berger.com
-* Other website contributors - Contributors on GitHub
+* Website contributors
