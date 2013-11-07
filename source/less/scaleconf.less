@@ -1,9 +1,32 @@
 // New styles for scaleconf 2014
 
 // structure
+div.black
+{
+    color: @black;
+    font-size: 13px;
+    padding-bottom: 20px;
+}
+ul.scaleconf-heads li
+{
+    padding: 5px 0px 5px 35px;
+    vertical-align: middle;
+    line-height: 20px; 
+    background-image: url(../img/layout/bullet.png);
+    background-position: 0px;
+    background-repeat: no-repeat;
+}
+ul.scaleconf-heads
+{
+    margin-left: 13px;
+}
 div.padded
 {
     padding-top: 60px;
+}
+div.padded-header
+{
+    padding-top: 40px;
 }
 .nav-justified {
     margin-top: 20px;
@@ -83,7 +106,11 @@ div.footer a:link, div.footer a:hover, div.footer a:active, div.footer a:visited
 }
 
 
-// content design & fonts
+// ------------------------ content design & fonts
+a:link, a:hover, a:active, a:visited
+{
+    text-decoration: none;
+}
 body
 {
     font-family: @font-family-serif;
@@ -96,6 +123,25 @@ h1
     color: #59c9e1;
     margin: 40px 0px 15px 0px;
 }
+h1.caps-home
+{
+    text-transform: uppercase;
+    font-size: 37px;
+}
+.caps
+{
+    text-transform: uppercase;
+}
+span.text-color-greenblue
+{
+    color: @ScaleConfGreenBlue;
+}
+
+div.paragraph-home p
+{
+    font-size: 18px;
+}
+
 h2
 {
     font-family: @font-family-sans-serif;
@@ -105,11 +151,34 @@ h2
     margin: 3px 0 13px 0;
     line-height: 1em;
 }
+h2.thanks
+{
+    background-color: #f7941d;
+    color: @white;
+    padding: 8px;
+}
+h2.map
+{
+    background-color: @ScaleConfBackground;
+    color: @white;
+    padding: 8px;
+    margin-bottom: 0px;
+}
+h3
+{
+    font-family: @font-family-sans-serif;
+    font-weight: normal;
+    color: @ScaleConfFooterBlue;
+    margin: 0px 0px 7px 0px;
+    line-height: 36px;
+    font-size: 28px;
+}
 h4
 {
-    margin: 0px;
+    margin: 25px 0px 4px 0px;
     font-family: geneva,sans-serif;
     font-weight: bold;
+    font-size: 14px;
     color: @ScaleConfGreenBlueHeading;
     text-rendering: optimizelegibility;
 }
@@ -124,11 +193,11 @@ ul.list-inline li.box
     padding: 15px;
 }
 
-// layout coloring
+// ---------------------------------- layout coloring
 div.white-background
 {
     background-color: @white;
-    padding: 0px 10px 20px 10px;
+    padding: 0px 30px 20px 30px;
 }
 div.footer
 {
@@ -143,9 +212,50 @@ div.copyright
     padding: 10px 10px 10px 10px;
     text-align: center;
 }
+div.right-column-nomargin
+{
+    background-color: @ScaleConfCopyrightBlue;
+    padding: 20px;
+    margin: 0px 0px 20px 0px;
+}
 div.right-column
 {
     background-color: @ScaleConfCopyrightBlue;
     padding: 20px;
     margin: 35px 0px 20px 0px;
+}
+div.right-column-nobg
+{
+    padding: 20px;
+    margin: 35px 0px 20px 0px;
+}
+
+div.thanks
+{
+    background-color: #f5f5f6;
+    padding: 0;
+    margin: 30px 7px 20px 0px;
+}
+div.map
+{
+    padding: 0px;
+    margin: 0px 7px 20px 0px;
+}
+
+div.organiser
+{
+    margin-bottom: 20px;
+    border-bottom: 1px dashed #999;
+}
+div.bio
+{
+    margin: 14px 0;
+}
+img.profile
+{
+    border: 3px solid @white;
+}
+p.twitter
+{
+    margin-top: 25px;
 }
