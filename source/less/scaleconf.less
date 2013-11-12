@@ -27,6 +27,7 @@ div.padded
 div.padded-header
 {
     padding-top: 40px;
+    padding-bottom: 30px;
 }
 .nav-justified {
     margin-top: 20px;
@@ -173,6 +174,21 @@ h3
     line-height: 36px;
     font-size: 28px;
 }
+span.orange
+{
+    color: #f7941d;
+}
+span.gray
+{
+    color: @gray;
+}
+
+div.center-text .navbar-text
+{
+    text-align: center;
+    width: 97%;
+}
+
 h3.speaker
 {
     font-family: @font-family-sans-serif;
@@ -181,6 +197,15 @@ h3.speaker
     margin: 0px 0px 3px 0px;
     line-height: 22px;
     font-size: 16px;
+}
+h3.speaker-detail
+{
+    font-family: @font-family-sans-serif;
+    font-weight: normal;
+    color: @ScaleConfFooterBlue;
+    margin: 25px 0px 10px 0px;
+    line-height: 22px;
+    font-size: 22px;
 }
 h4
 {
@@ -203,6 +228,19 @@ ul.list-inline li.box
     width: 97%;
     font-size: 14px;
     font-family: @font-family-sans-serif;
+}
+ul.list-inline li.box:hover
+{
+    background-color: #dddddd;
+}
+ul.speakers-list li
+{
+    padding: 5px 0px 5px 0px;
+}
+h3.speaker-detail-heading
+{
+    font-size: 20px;
+    margin-bottom: 10px;
 }
 
 // ---------------------------------- layout coloring
@@ -242,6 +280,13 @@ div.right-column-nobg
     margin: 35px 0px 20px 0px;
 }
 
+div.left-column-nomargin
+{
+    background-color: @ScaleConfColumnGray;
+    padding: 0px 20px 20px 20px;
+    margin: 42px 0px 20px 0px;
+}
+
 div.thanks
 {
     background-color: #f5f5f6;
@@ -270,4 +315,13 @@ img.profile
 p.twitter
 {
     margin-top: 25px;
+}
+
+div.gutter-padding-left
+{
+    padding-left: 5px;
+}
+div.gutter-padding-right
+{
+    padding-right: 5px;
 }
