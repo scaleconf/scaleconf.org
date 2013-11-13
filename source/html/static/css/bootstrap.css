@@ -829,6 +829,12 @@ img.profile{border:3px solid #ffffff;}
 p.twitter{margin-top:25px;}
 div.gutter-padding-left{padding-left:5px;}
 div.gutter-padding-right{padding-right:5px;}
+div.gray-background{background-color:#f5f5f6;padding:20px 20px 20px 20px;}
+.pull-left-margin{float:left;margin-right:5px;}
+div.padding-extra{padding-bottom:17px;}
+div.pull-right-margin{padding-right:30px;float:right;}
+ul.padding-area li{padding-left:50px;padding-right:50px;}
+ul.padding-area{margin:20px 0px 20px 0px;}
 .clearfix:before,.clearfix:after{content:" ";display:table;}
 .clearfix:after{clear:both;}
 .pull-right{float:right !important;}
