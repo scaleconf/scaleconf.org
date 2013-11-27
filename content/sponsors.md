@@ -1,94 +1,26 @@
-# Sponsorship packages
+# Sponsors
 
-ScaleConf is organised by volunteers, but there are still huge expenses when it comes to putting together a successful conference. Sponsorship helps us to keep ticket prices affordable. If you'd like to sponsor, but none of these options suit you, get in touch with us at info@scaleconf.org, and we can discuss how else you could be involved.
+We would like to thank the following sponsors for helping to make this event
+happen!
 
-## Conference
+  spotlight sponsors logos should be at the top and larger than other sponsors.
 
-### Diamond
-Shine bright like a diamond. With our premier sponsorship package, it'll be all eyes on you (and your brand).
+- baseline sponsor logo
+- baseline sponsor logo
+- baseline sponsor logo
 
-In this package:
+Your essential morning, brunch, lunch and afternoon coffee was brought to you
+by
 
-* Diamond designation throughout conference
-* Logo on promotional items bag
-* Prominent position on website landing page
-* Company name or logo on lanyard
-* 10 conference tickets
+- coffee sponsor
+- coffee sponsor
 
-+Gold
-* Company name in press releases
-* Company name or logo on lanyard insert
-* Logo on event t-shirts (back)
-* 2 banners in main hall
-* Exhibition space at the back of the main hall (3m x 3m)
-* Company logo on website footer
-* Custom content on website sponsors page
-* Company name or logo in attendee emails
-* Option to provide promotional insert
-* 15% off additional tickets
+Evening drinks and events were hosted by
 
-1 available  
-Cost: R75 000
+- events sponsor
+- events sponsor
+- events sponsor
 
-### Gold
-Show your involvement in the tech community as a major sponsor of the conference.
+We would also like to thank the companies behind the speakers
 
-In this package:
-* Gold designation throughout conference
-* Company name in press releases
-* Company name or logo on lanyard insert
-* Logo on event t-shirts (back)
-* 2 banners in main hall
-* Exhibition space at the back of the main hall (3m x 3m)
-* 6 conference tickets
-
-+Silver
-* Company logo on website footer
-* Custom content on website sponsors page
-* Company name or logo in attendee emails
-* Option to provide promotional insert
-* 15% off additional tickets
-
-2 available  
-Cost: R50 000
-
-### Silver
-Raise awareness of your brand, scout potential talent, grow your network in South Africa.
-
-In this package:
-* Silver designation throughout conference
-* Company logo on website footer
-* Custom content on website sponsors page
-* 4 conference tickets
-
-+Bronze
-* Company name or logo in attendee emails
-* Option to provide promotional insert
-* 15% off additional tickets
-
-4 Available  
-Cost: R35 000
-
-### Bronze
-Small but powerful - get your name out there.
-
-In this package:
-* Bronze designation throughout conference
-* Company name or logo in attendee emails
-* Company bio on website sponsors page
-* Option to provide promotional insert
-* 15% off tickets
-
-8 available  
-Cost: R10 000
-
-## Social Events
-
-### Pre-conference drinks, 10 April Evening event, Closing event
-
-In this package:
-* Sponsor designation for the event
-* Bring non-attendees to event for networking
-
-3 available (only open to sponsors)  
-Cost: R15 000 + cost of event
+### (all speaker company logos)
