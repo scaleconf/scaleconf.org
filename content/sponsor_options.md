@@ -1,7 +1,7 @@
 # Sponsorship packages
 
 ScaleConf is organised by volunteers, but there are still huge expenses when
-it comes to putting together a successful conference. Sponsorship helps us to
+it comes to putting together a successful conference. Sponsorship helps us to
 keep ticket prices affordable.
 
 We've structured our sponsorship this year to make sure that you can build
@@ -17,7 +17,7 @@ by giving you exposure and presence at the conference.
     Company logo on website footer
     Company bio on website sponsors page
     Two conference tickets
-    10% off additional tickets
+    15% off additional corporate tickets
 
 #### Level up
 
@@ -31,17 +31,15 @@ Put your company in the spotlight, and be seen at the conference.
 
     Prominent placement and larger logo wherever used
     Banner in main hall (to be provided)
-    Logo on Lanyard
-
-##### T-Shirt
-    
     Company Logo on the back of the t-shirt
+    Standing banner in main hall (to be provided, no larger than 3m x 2m)
+    Logo on Lanyard
 
 ##### Coffee
 
 Our attendees love coffee, and they love our coffee sponsors.
 
-    Coffee sponsor designation
+    Coffee sponsor designation for the day
     Mention and Logo on the back of lanyard inserts
     Mention during announcements
 
