@@ -41,6 +41,18 @@ Put your company in the spotlight, and be seen at the conference.
     We're going to limit this package to just three takers so that
     everyone gets their time in the spotlight.
 
+##### Presence
+    
+If you're looking to have some of your engineers on the ground, we would love
+to have some of your engineers bring a stand and talk shop with our attendees.
+
+    Area at the back of the hall (3m x 3m)
+    Three extra conference tickets
+    
+    Cost: R15,000 (<convert> USD)
+    Space is the limiting factor here, so we will only be able to squeeze
+    five spots into the venue.
+
 ##### Coffee
 
 Our attendees love coffee, and they love our coffee sponsors.
@@ -61,18 +73,6 @@ We like to keep everyone socializing and networking, so on the evenings of the
     
     Cost: R5,000 (<convert> USD) and the tab.
     We can also manage and organize the event for you, just let us know.
-
-##### Presence
-    
-If you're looking to have some of your engineers on the ground, we would love
-to have some of your engineers bring a stand and talk shop with our attendees.
-
-    Area at the back of the hall (3m x 3m)
-    Three extra conference tickets
-    
-    Cost: R15,000 (<convert> USD)
-    Space is the limiting factor here, so we will only be able to squeeze
-    five spots into the venue.
 
 ##### Not found
 
