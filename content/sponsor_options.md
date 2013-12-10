@@ -61,6 +61,13 @@ to have some of your engineers bring a stand and talk shop with our attendees.
     Area at the back of the hall (3m x 3m)
     Three extra conference tickets
 
+##### Adopt a Student
+
+We have some broke students that need help getting to the conference. Help them
+out and we're sure they'll never forget.
+
+    Cost: R1,000
+
 ##### Not found
 
 If you'd like to sponsor, but none of these options suit you, get in touch
