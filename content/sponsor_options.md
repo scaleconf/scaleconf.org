@@ -1,7 +1,7 @@
 # Sponsorship packages
 
 ScaleConf is organised by volunteers, but there are still huge expenses when
-it comes to putting together a successful conference. Sponsorship helps us to
+it comes to putting together a successful conference. Sponsorship helps us to
 keep ticket prices affordable.
 
 We've structured our sponsorship this year to make sure that you can build
@@ -17,7 +17,9 @@ by giving you exposure and presence at the conference.
     Company logo on website footer
     Company bio on website sponsors page
     Two conference tickets
-    10% off additional tickets
+    15% off additional corporate tickets
+    
+    Cost: R15,000 (<convert> USD)
 
 #### Level up
 
@@ -31,19 +33,34 @@ Put your company in the spotlight, and be seen at the conference.
 
     Prominent placement and larger logo wherever used
     Banner in main hall (to be provided)
-    Logo on Lanyard
-
-##### T-Shirt
-    
     Company Logo on the back of the t-shirt
+    Standing banner in main hall (to be provided, no larger than 3m x 2m)
+    Logo on Lanyard
+    
+    Cost: R15,000 (<convert> USD)
+    We're going to limit this package to just three takers so that
+    everyone gets their time in the spotlight.
+
+##### Presence
+    
+Bring some of your engineers in to talk shop with our attendees.
+
+    Area at the back of the hall (3m x 3m)
+    Three extra conference tickets
+    
+    Cost: R15,000 (<convert> USD)
+    Space is the limiting factor here, so we will only be able to squeeze
+    five spots into the venue.
 
 ##### Coffee
 
 Our attendees love coffee, and they love our coffee sponsors.
 
-    Coffee sponsor designation
+    Coffee sponsor designation for the day
     Mention and Logo on the back of lanyard inserts
     Mention during announcements
+    
+    Cost: R10,000 (<convert> USD)
 
 ##### Events
 
@@ -52,14 +69,9 @@ We like to keep everyone socializing and networking, so on the evenings of the
 
     Official event sponsor
     Host attendees for dinner, and/or drinks.
-
-##### Presence
     
-If you're looking to have some of your engineers on the ground, we would love
-to have some of your engineers bring a stand and talk shop with our attendees.
-
-    Area at the back of the hall (3m x 3m)
-    Three extra conference tickets
+    Cost: R5,000 (<convert> USD) and the tab.
+    We can also manage and organize the event for you, just let us know.
 
 ##### Not found
 
