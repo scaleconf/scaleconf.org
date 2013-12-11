@@ -43,8 +43,7 @@ Put your company in the spotlight, and be seen at the conference.
 
 ##### Presence
     
-If you're looking to have some of your engineers on the ground, we would love
-to have some of your engineers bring a stand and talk shop with our attendees.
+Bring some of your engineers in to talk shop with our attendees.
 
     Area at the back of the hall (3m x 3m)
     Three extra conference tickets
