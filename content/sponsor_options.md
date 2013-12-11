@@ -63,8 +63,10 @@ to have some of your engineers bring a stand and talk shop with our attendees.
 
 ##### Adopt a Student
 
-We have some broke students that need help getting to the conference. Help them
-out and we're sure they'll never forget.
+Cape Town is full of smart but penniless computer science students wanting to
+experience and learn from events like this. It is also such a great
+opportunity for them to meet engineers from your company, ask questions, and
+get involved.
 
     Cost: R1,000
 
