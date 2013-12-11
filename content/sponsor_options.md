@@ -73,6 +73,15 @@ We like to keep everyone socializing and networking, so on the evenings of the
     Cost: R5,000 (<convert> USD) and the tab.
     We can also manage and organize the event for you, just let us know.
 
+##### Adopt a Student
+
+Cape Town is full of smart but penniless computer science students wanting to
+experience and learn from events like this. It is also such a great
+opportunity for them to meet engineers from your company, ask questions, and
+get involved.
+
+    Cost: R1,000
+
 ##### Not found
 
 If you'd like to sponsor, but none of these options suit you, get in touch
